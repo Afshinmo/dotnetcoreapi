@@ -1,2 +1,42 @@
 # dotnetcoreapi
 The .NET Core Web API reference project
+
+This is the .NET core reference project. 
+
+When starting a new .NET core software project use this repository as a starting point.
+
+## This application consists of:
+
+*   A .NET core web API (1.0.1) created using Visual Studio 15 Update 3.
+
+## Features
+
+*   Bare project
+
+## Overview
+* The source is in the subdirectory src. This project consists of only the webapi dotnetcoreapi, thus the subfolder
+
+## Run 
+
+*   Clone this repository
+```
+cd dotnetcoreapi
+dotnet restore
+cd src
+cd dotnetcoreapi
+cd build
+dotnet run
+```
+*   Navigate a browser to http://localhost:5000/api/values to see ["value1","value2"]
+
+## Contributor guidelines
+* All code should be reviewed by someone else before merged
+* Use [Microsoft Coding Conventions](https://msdn.microsoft.com/en-us/library/ff926074.aspx)
+* We version [semantically](http://semver.org/)
+
+## References
+* Here there will be references to related repositories
+
+We would love to hear your feedback and get your help of enhancing this architecture. 
+
+## 
