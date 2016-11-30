@@ -8,7 +8,7 @@ using Xunit;
 
 namespace dotnetcoreapiTest
 {
-    public class VulesControllerTest
+    public class ValuesControllerTest
     {
         [Fact]
         public void Division_Pass()
