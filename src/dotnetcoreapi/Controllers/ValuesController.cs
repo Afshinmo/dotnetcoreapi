@@ -41,7 +41,7 @@ namespace dotnetcoreapi.Controllers
         {
         }
 
-        // GET api/values/5
+        // GET api/values/division/9/3
         [HttpGet("division/{dividend}/{divisor}")]
         public IActionResult Division(int dividend, int divisor)
         {
