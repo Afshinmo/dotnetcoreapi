@@ -14,7 +14,7 @@ Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "dotnetcoreapi", "src\dotnet
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{19BB689D-BF6A-437F-B13F-CC1C764B6008}"
 EndProject
-Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "dotnetcoreapiTest", "dotnetcoreapiTest\dotnetcoreapiTest.xproj", "{0312F815-01B9-4A7F-86FC-45130F6BCA6B}"
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "dotnetcoreapiTest", "Test\dotnetcoreapiTest\dotnetcoreapiTest.xproj", "{0312F815-01B9-4A7F-86FC-45130F6BCA6B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

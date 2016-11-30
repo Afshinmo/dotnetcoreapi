@@ -9765,8 +9765,8 @@
     },
     "dotnetcoreapi/1.0.0": {
       "type": "project",
-      "path": "../src/dotnetcoreapi/project.json",
-      "msbuildProject": "../src/dotnetcoreapi/dotnetcoreapi.xproj"
+      "path": "../../src/dotnetcoreapi/project.json",
+      "msbuildProject": "../../src/dotnetcoreapi/dotnetcoreapi.xproj"
     }
   },
   "projectFileDependencyGroups": {
