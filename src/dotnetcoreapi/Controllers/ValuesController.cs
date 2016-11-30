@@ -40,5 +40,19 @@ namespace dotnetcoreapi.Controllers
         public void Delete(int id)
         {
         }
+
+        // GET api/values/division/9/3
+        [HttpGet("division/{dividend}/{divisor}")]
+        public IActionResult Division(int dividend, int divisor)
+        {
+            if (divisor != 0)
+            {
+                return Ok(dividend / divisor);
+            }
+            else
+            {
+                return BadRequest();
+            }
+        }
     }
 }
