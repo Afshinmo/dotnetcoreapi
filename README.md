@@ -24,7 +24,7 @@ cd dotnetcoreapi
 dotnet restore
 cd src
 cd dotnetcoreapi
-cd build
+dotnet build
 dotnet run
 ```
 *   Navigate a browser to http://localhost:5000/api/values to see ["value1","value2"]
