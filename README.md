@@ -1,13 +1,5 @@
 # dotnetcoreapi
 
-![img](http://ec2-35-164-228-65.us-west-2.compute.amazonaws.com:8080/job/dotnetcoreapi_ci/5//badge/icon)
-
-[![Build Status](http://ec2-35-164-228-65.us-west-2.compute.amazonaws.com:8080/job/dotnetcoreapi_ci/badge/icon)](http://ec2-35-164-228-65.us-west-2.compute.amazonaws.com:8080/job/dotnetcoreapi_ci/)
-
-[![Build Status](http://ec2-35-164-228-65.us-west-2.compute.amazonaws.com:8080/buildStatus/icon?job=dotnetcoreapi_ci)](http://ec2-35-164-228-65.us-west-2.compute.amazonaws.com:8080/job/dotnetcoreapi_ci/)
-
-[![Build Status](http://ec2-35-164-228-65.us-west-2.compute.amazonaws.com:8080/job/dotnetcoreapi_ci/badge/icon)](http://ec2-35-164-228-65.us-west-2.compute.amazonaws.com:8080/job/dotnetcoreapi_ci)
-
 [![Build Status](http://ec2-35-164-228-65.us-west-2.compute.amazonaws.com:8080/buildStatus/icon?job=dotnetcoreapi_ci)](http://ec2-35-164-228-65.us-west-2.compute.amazonaws.com:8080/job/dotnetcoreapi_ci)
 
 The .NET Core Web API reference project
