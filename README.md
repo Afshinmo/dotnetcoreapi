@@ -1,5 +1,6 @@
 # dotnetcoreapi
-[![Build Status](http://ec2-35-164-228-65.us-west-2.compute.amazonaws.com:8080/job/dotnetcoreapi_ci/5/badge/icon)](http://ec2-35-164-228-65.us-west-2.compute.amazonaws.com:8080/job/dotnetcoreapi_ci/5/)
+
+[![Build Status](http://ec2-35-164-228-65.us-west-2.compute.amazonaws.com:8080/job/dotnetcoreapi_ci/5//badge/icon)](http://ec2-35-164-228-65.us-west-2.compute.amazonaws.com:8080/job/dotnetcoreapi_ci/5/)
 
 The .NET Core Web API reference project
 
