@@ -1,8 +1,6 @@
 # dotnetcoreapi
 The .NET Core Web API reference project
 
-This is the .NET core reference project. 
-
 When starting a new .NET core software project use this repository as a starting point.
 
 ## This application consists of:
