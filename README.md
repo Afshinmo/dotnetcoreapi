@@ -13,6 +13,7 @@ When starting a new .NET core software project use this repository as a starting
 ## Features
 
 *   Bare project
+*   Unit test [xUnit]
 
 ## Overview
 * The source is in the subdirectory src. This project consists of only the webapi dotnetcoreapi, thus the subfolder
