@@ -1,0 +1,10 @@
+version: '2'
+
+services:
+  dotnetcoreapi:
+    image: dmg/dotnetcoreapi${TAG}
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "80"
