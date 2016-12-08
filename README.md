@@ -18,7 +18,7 @@ When starting a new .NET core software project use this repository as a starting
 ## Overview
 * The source is in the subdirectory src. This project consists of only the webapi dotnetcoreapi, thus the subfolder
 
-## Run 
+## Run project
 
 *   Clone this repository
 ```
@@ -30,6 +30,16 @@ dotnet build
 dotnet run
 ```
 *   Navigate a browser to http://localhost:5000/api/values to see ["value1","value2"]
+
+## Run test
+
+*   we assume that you already Cloned this repository
+```
+cd dotnetcoreapi
+cd test
+cd dotnetcoreapiTest
+dotnet test
+```
 
 ## Contributor guidelines
 * All code should be reviewed by someone else before merged
