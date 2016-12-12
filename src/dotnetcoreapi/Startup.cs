@@ -10,6 +10,8 @@ using Microsoft.Extensions.Logging;
 using dotnetcoreapi.Controllers;
 using Microsoft.AspNetCore.Mvc;
 
+[assembly: log4net.Config.XmlConfigurator(ConfigFileExtension = "log4net", Watch = true)]
+
 namespace dotnetcoreapi
 {
     public class Startup
