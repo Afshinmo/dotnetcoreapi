@@ -8,7 +8,7 @@ When starting a new .NET core software project use this repository as a starting
 
 ## This application consists of:
 
-*   A .NET core web API (1.0.1) created using Visual Studio 15 Update 3.
+*   A .NET core web API (1.0.1) created using Visual Studio 15 Update 4.
 
 ## Features
 
