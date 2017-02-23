@@ -1,5 +1,5 @@
 doc-store-build:
-  image: microsoft/aspnetcore-build:1.1.0-projectjson
+  image: microsoft/aspnetcore-build:1.0.1-projectjson
   environment:
       HTTP_PROXY: http://proxyseso.scania.com:8080
       HTTPS_PROXY: http://proxyseso.scania.com:8080
